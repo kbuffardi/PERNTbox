@@ -1,0 +1,23 @@
+{
+  "name": "perntbox",
+  "version": "0.0.1",
+  "description": "postgresql, express, react, node, typescript sandbox",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kbuffardi/PERNTbox.git"
+  },
+  "author": "Kevin Buffardi <kbuffardi@csuchico.edu>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kbuffardi/PERNTbox/issues"
+  },
+  "homepage": "https://github.com/kbuffardi/PERNTbox#readme",
+  "dependencies": {
+    "express": "^4.16.1"
+  }
+}
