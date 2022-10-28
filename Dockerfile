@@ -15,4 +15,4 @@ RUN npm install --omit=dev
 
 # launch server
 EXPOSE 8080
-CMD ["node","server.js"]
+CMD ["node","./backend/server.js"]
